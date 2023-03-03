@@ -1,0 +1,22 @@
+body {
+    background-color:rgba(214, 210, 210, 0.962);
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 400px;
+}
+.ingredients {
+    font-size: 18px;
+}
+.steps {
+    font-size: 18px;
+}
+ul {
+    list-style-type: none;
+}
+ol {
+    list-style-type: none;
+}
